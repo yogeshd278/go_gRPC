@@ -46,7 +46,7 @@ Make sure `$(go env GOPATH)/bin` is in your `PATH`.
 
 ```bash
 git clone https://github.com/yogeshd278/go_gRPC.git
-cd <repo-name>
+cd go_gRPC
 ```
 
 2. **Generate gRPC code**
